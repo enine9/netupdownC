@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  Copyright 2016-2017 By_syk
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use this file except in compliance with the License.
+  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
+  -->
+
+<resources>
+
+    <string name="app_name">Upstream</string>
+
+    <string name="copyright" translatable="false">Copyright &#169; 2016-2017 By_syk. All rights reserved.</string>
+
+    <string name="service">Net speed monitor</string>
+    <string name="service_desc">For monitoring net speed in real time.</string>
+
+    <string name="preference_title_hint">TIPS</string>
+    <string name="preference_summary_hint">This is a small tool to show net speed in real time. DOUBLE TAP to switch speed/flow mode, and TRIPLE TAP to hide.</string>
+    <!--<string name="preference_summary_hint">This is a small tool to show net speed in real time. DOUBLE TAP to switch speed/flow mode, TRIPLE TAP to hide, and LONG PRESS to switch high-priority/low-priority mode.</string>-->
+    <string name="preference_category_settings">Settings</string>
+    <string name="preference_title_run">Run</string>
+    <string name="preference_summary_on_run">The service is running and a floating window is shown.</string>
+    <string name="preference_summary_off_run">The service is NOT running.</string>
+    <string name="preference_category_about">About</string>
+    <string name="preference_title_source">Open source</string>
+    <string name="preference_summary_source" translatable="false">https://github.com/by-syk/NetUpDown</string>
+    <!--<string name="preference_title_special">Special</string>-->
+    <!--<string name="preference_summary_special">For @</string>-->
+    <!--<string name="preference_title_copyright">Copyright</string>-->
+
+    <string name="dlg_title_window_priority">Floating window priority</string>
+    <string name="dlg_bt_high_priority">High</string>
+    <string name="dlg_bt_low_priority">Low</string>
+
+    <string name="menu_faq">FAQ</string>
+
+    <string name="run_shortcut_short_label">Run Upstream</string>
+    <string name="run_shortcut_long_label">Run Upstream</string>
+    <string name="priority_desc">
+"If you want to drag the floating window to the status bar, please choose HIGH priority. However, it may cause some video players unable to adjust brightness.
+\nTIPS: you could also toggle the option at any time by pressing and holding the floating window."</string>
+    <string name="faq_url">https://github.com/by-syk/NetUpDown/blob/master/FAQ.md</string>
+    <!--<string name="xposed_desc">Show net speed on the status bar</string>-->
+
+    <string name="tile_run">Run Upstream</string>
+
+</resources>
